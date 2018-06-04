@@ -9,3 +9,5 @@ https://www.ibm.com/blogs/watson/2018/03/ai-everywhere-ibm-watson-apple-core-ml/
 https://www.ibm.com/cloud/watson-studio
 
 https://github.com/watson-developer-cloud/visual-recognition-coreml
+
+https://github.com/watson-developer-cloud/visual-recognition-coreml/
